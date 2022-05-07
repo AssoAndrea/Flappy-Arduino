@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Heart
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: luna
+    uniqueID: 948094023
+    locked: 0
+  - name: nuvole
+    uniqueID: 96951421
+    locked: 0
+  - name: secondo
+    uniqueID: 3622130405
+    locked: 0
+  - name: primo
+    uniqueID: 251716393
+    locked: 0
+  - name: Obstacles
+    uniqueID: 935420225
+    locked: 0
